@@ -1,2 +1,25 @@
-# vue-js-build-a-robot-server
-An application is developed in vue js with the server calling api from server file
+# build-a-robot
+It is robot building application in Vue.js
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
